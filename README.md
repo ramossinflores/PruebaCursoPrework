@@ -1,3 +1,8 @@
-Prueba Curso Prework de Platzi 💚
+# Repositorio Personal de Configuración SSH 💻
 
-En este repositorio es un recurso meramente educativo y personal, donde el profesor Ricardo Celis nos enseña a cómo configurar una llave SSH en Windows, Linux y Mac, y usarla para conectarla con nuestro repositorio en GitHub 💜 
+¡Hola! Este es mi repositorio personal donde sólo experimento la configuración de llaves SSH en el Curso de Prework de Platzi con el profesor Ricardop Celis 💚
+Contenido del Repositorio 📚
+
+## Uso del Repositorio 💡
+
+Este repositorio es mi espacio personal de aprendizaje y referencia.
